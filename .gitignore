@@ -1,4 +1,4 @@
-node_modules
-fs-provider/node_modules
-sample/node_modules
-out
+node_modules/
+fs-provider/node_modules/
+sample/node_modules/
+out/
